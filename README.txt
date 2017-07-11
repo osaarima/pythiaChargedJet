@@ -4,7 +4,7 @@ To run this:
 2nd make
 3rd ./pythiaJet 
 
-./pythiaJet pythia_config_ATLAS.cmnd card_pp.input
+./pythiaChargedJet pythia_config_ATLAS.cmnd card_pp.input 11 21 data_jets/jets_pthard11_21_7TeV_test.root 12356
 
 # pythia_config_ATLAS.cmnd  pythia configuration
 # card_pp.input define jet alg, acceptance cuts
